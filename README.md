@@ -15,4 +15,4 @@ maxArgv--練習argv模組: argv module (compairing numbers)
 python 3.13
 
 # Timeline
-started in 2025, continuosly updating as I progress
+started python in April,2025. Continuosly updating as I progress
