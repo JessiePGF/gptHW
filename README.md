@@ -2,6 +2,8 @@
 I was studying python through: Automate Boring Stuff With Python. Whenever I encounter a concept that I'm not fully confident with, I ask chatGPT to create a quiz so I can practice more about it, and also strengthen my python coding skill at the same time. Although many of these exercises are beginner-level, I'm documenting them to track my growth over time.
 
 # Quiz questions
+- np pd practice
+    - 不重複配對求和 — 練習 `for` 迴圈跟 `Numpy` 檢索: `for` loop, `Numpy` indexing
 - 計算報酬率 — 練習錯誤處理: `try` and `except` exercise (calculate ROI)  
 - 印出 1 加到 10 的過程與總和 — 練習 `for` 迴圈: `for` loop exercise  
 - 小動畫 — 練習錯誤處理和 `time` 模組: `try` / `except`, `time` module  
