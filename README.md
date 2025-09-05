@@ -12,6 +12,7 @@ I was studying python through: Automate Boring Stuff With Python. Whenever I enc
 - 表格對齊 — 練習 `def` 和 `for` 迴圈: `def`, `for` loop exercise (transpose table)  
 - 歐基里德 — 練習 Monte Carlo 模擬: Monte Carlo simulation  
 - 圖書館藏書 — 加強第 5 章: CH5 review (nested dictionary structures)
+- 模擬抽樣分布 — 練習matplot與驗證CLT: matplot with CLT
 # Python version
 python 3.13
 
